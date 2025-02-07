@@ -29,7 +29,7 @@ Welcome to my GitHub profile!
 
 ## 🌟 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=glassus&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=cemax93&show_icons=true&theme=radical)
 
 ## 🎉 Fun Facts
 
